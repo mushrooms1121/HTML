@@ -11,8 +11,9 @@
   * h3跟div的區別
 * css-box
   * 區塊模型
-  * 區塊高度(height)
-  * 區塊寬度
-        *%跟著鱉 
-  * 區塊邊框
-  * 換行
+  * 區塊高度 (height)
+  * 區塊寬度 (width->%-跟著網頁尺寸做變動/400px-400px的寬度)
+  * 區塊邊框 (border->dashed-虛線/solid-實線)
+  * 換行 (br/)
+* css-selector
+  * 
