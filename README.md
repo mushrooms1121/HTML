@@ -2,7 +2,8 @@
 **學習重點**
 * home
   * 縮排指令
-  * 水平線 
+  * 水平線
+![image](https://github.com/mushrooms1121/HTML/blob/master/picture/home.png)
 * home2
   * 圖片
   * 列表
