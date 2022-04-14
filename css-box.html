@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>CSS BOX Model 區塊模型</title>
+    </head>
+<body style = "background-color:#cccccc">
+    <div style="height:400px;width:50%;margin-bottom:10px;border: 1px dashed red;font-weight:bold;font-size:24px">文章第一段落的標題</div> 
+    <!--自己設定高度(height) 跟著網頁尺寸做變動(width-%) 下邊界10個像素(margin-bottom) 紅色虛線1px(border)-->
+    <div style="width:400px;padding:10px;border: 1px solid blue; color:#666666"> 
+        <!--400px的寬度(width) 字跟邊邊有空間(padding) 藍色實線1px的邊框(border)-->
+        今天的<span style="color:red">天氣</span>真不錯
+        <div style = "background-color: yellow;">測試1</div> <!--相對於上一層的div-->
+        更多行<br/>更多行<br/>更多行 <!--換行 自己改變高度-->
+    </div>
+    <div style = "background-color: yellow;">測試2</div> <!--相對於body-->
+</body>
+</html>
