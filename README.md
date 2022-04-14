@@ -16,4 +16,8 @@
   * 區塊邊框 (border->dashed-虛線/solid-實線)
   * 換行 (br/)
 * css-selector
-  * 
+  * 標籤名稱選擇器 (body)
+  * id選擇器 (#)
+  * class選擇器 (.)
+  * 刪除線 (text-decoration:line-through)
+  * link (連結外部資源)
